@@ -1,4 +1,17 @@
-# quote_generator
+# Welcome to Anime Quoter
+
+## Screenshots
+![](ss/Screenshot%202021-07-25%20154853.png)
+
+
+![](ss/Screenshot%202021-07-25%20154932.png)
+
+
+![](ss/Screenshot%202021-07-25%20155005.png)
+
+
+![](ss/Screenshot%202021-07-25%20155032.png)
+
 
 ## Project setup
 ```
