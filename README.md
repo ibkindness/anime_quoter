@@ -1,6 +1,7 @@
 # Welcome to Anime Quoter
 
 ## Screenshots
+
 ![](ss/Screenshot%202021-07-25%20154853.png)
 
 
